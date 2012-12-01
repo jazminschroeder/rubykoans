@@ -1,0 +1,38 @@
+# The path to Ruby Enlightenment starts with the following:
+
+$LOAD_PATH << File.dirname(__FILE__)
+
+require 'koans/about_asserts'
+require 'koans/about_nil'
+require 'koans/about_objects'
+require 'koans/about_arrays'
+require 'koans/about_array_assignment'
+require 'koans/about_hashes'
+require 'koans/about_strings'
+require 'koans/about_symbols'
+require 'koans/about_methods'
+require 'koans/about_constants'
+require 'koans/about_control_statements'
+require 'koans/about_true_and_false'
+require 'koans/about_triangle_project'
+require 'koans/about_exceptions'
+require 'koans/about_triangle_project_2'
+require 'koans/about_iteration'
+require 'koans/about_blocks'
+require 'koans/about_sandwich_code'
+require 'koans/about_scoring_project'
+require 'koans/about_classes'
+require 'koans/about_open_classes'
+require 'koans/about_dice_project'
+require 'koans/about_inheritance'
+require 'koans/about_modules'
+require 'koans/about_scope'
+require 'koans/about_class_methods'
+require 'koans/about_message_passing'
+require 'koans/about_proxy_object_project'
+require 'koans/about_to_str'
+require 'koans/about_regular_expressions'
+in_ruby_version("jruby") do
+  require 'koans/about_java_interop'
+end
+require 'koans/about_extra_credit'
