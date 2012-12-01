@@ -14,7 +14,8 @@
 [Original Repository](https://github.com/edgecase/ruby_koans)
 
 ## License
-http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png
+![license](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+
 
 RubyKoans is released under a Creative Commons,
 Attribution-NonCommercial-ShareAlike, Version 3.0
