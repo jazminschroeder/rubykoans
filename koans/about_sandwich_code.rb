@@ -14,7 +14,7 @@ class AboutSandwichCode < EdgeCase::Koan
   end
 
   def test_counting_lines
-    assert_equal __, count_lines("example_file.txt")
+    assert_equal __, count_lines("koans/example_file.txt")
   end
 
   # ------------------------------------------------------------------
@@ -29,7 +29,7 @@ class AboutSandwichCode < EdgeCase::Koan
   end
 
   def test_finding_lines
-    assert_equal __, find_line("example_file.txt")
+    assert_equal __, find_line("koans/example_file.txt")
   end
 
   # ------------------------------------------------------------------
@@ -74,7 +74,7 @@ class AboutSandwichCode < EdgeCase::Koan
   end
 
   def test_counting_lines2
-    assert_equal __, count_lines2("example_file.txt")
+    assert_equal __, count_lines2("koans/example_file.txt")
   end
 
   # ------------------------------------------------------------------
@@ -84,7 +84,7 @@ class AboutSandwichCode < EdgeCase::Koan
   end
 
   def test_finding_lines2
-    assert_equal __, find_line2("example_file.txt")
+    assert_equal __, find_line2("koans/example_file.txt")
   end
 
   # ------------------------------------------------------------------
@@ -100,7 +100,7 @@ class AboutSandwichCode < EdgeCase::Koan
   end
 
   def test_open_handles_the_file_sandwich_when_given_a_block
-    assert_equal __, count_lines3("example_file.txt")
+    assert_equal __, count_lines3("koans/example_file.txt")
   end
 
 end
