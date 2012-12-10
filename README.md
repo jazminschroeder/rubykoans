@@ -2,12 +2,13 @@
 
 ## Getting Started
 
-* git clone https://github.com/jazminschroeder/rubykoans.git
-* cd into rubykoans and run bundle install
-* run watchr koans.watchr
+* $ git clone https://github.com/jazminschroeder/rubykoans.git
+* $ cd rubykoans 
+* $ bundle install
+* $ watchr koans.watchr
 * Red/Green Watch it fail, Make it pass
 
-### You can look at the branch rubykoans-solutions if you need to ;)
+### You can look at the branch rubykoans-solutions if you need to(ruby 1.9.3) ;)
 
 ## Resources
 [http://ruby-doc.org/core-1.9.3/](http://ruby-doc.org/core-1.9.3/)
