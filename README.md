@@ -3,9 +3,9 @@
 ## Getting Started
 
 * Clone this repo
-* cd into rubykoans and run bundle install
-* run watchr koans.watchr
-* Red/Green Watch it fail, Make it pass
+* $ cd into rubykoans and run bundle install
+* $ watchr koans.watchr
+* Red/Green Watch it fail, Make it pass!
 
 ## Resources
 [http://ruby-doc.org/core-1.9.3/](http://ruby-doc.org/core-1.9.3/)
