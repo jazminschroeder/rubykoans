@@ -3,7 +3,8 @@
 ## Getting Started
 
 * Clone this repo
-* $ cd into rubykoans and run bundle install
+* $ cd rubykoans 
+* $ bundle install
 * $ watchr koans.watchr
 * Red/Green Watch it fail, Make it pass!
 
