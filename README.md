@@ -8,7 +8,7 @@
 * $ watchr koans.watchr
 * Red/Green Watch it fail, Make it pass
 
-### You can look at the branch rubykoans-solutions if you need to(ruby 1.9.3) ;)
+### You can look at the branch rubykoans-solutions if you need to ;)
 
 ## Resources
 [http://ruby-doc.org/core-1.9.3/](http://ruby-doc.org/core-1.9.3/)
