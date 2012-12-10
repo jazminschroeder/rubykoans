@@ -1,6 +1,6 @@
 # Ruby Koans -- a fun way to learn ruby!
 
-## Getting Started(assuming you are using ruby 1.9.3 & rvm)
+## Getting Started (assuming you are using ruby 1.9.3 & rvm)
 
 * $ git clone https://github.com/jazminschroeder/rubykoans.git
 * $ cd rubykoans 
